@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a7a0d84-77bb-4aa3-aae3-fa9da6d587fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greet-web-app/src/main/java/net/greet/web/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../greet-web-app/src/main/java/net/greet/web/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../teachers_db/src/test/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/src/main/java/hello/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/src/main/java/hello/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/src/main/java/hello/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SortAndSwap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,22 +18,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="285">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="292">
+              <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -44,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="113">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,24 +57,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="255">
               <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="225">
               <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
@@ -89,21 +82,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" />
-        <option value="$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
     <option name="width" value="1280" />
     <option name="height" value="714" />
   </component>
@@ -113,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,14 +136,6 @@
               <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
               <item name="SortAndSwap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sortandswap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SortAndSwap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortAndSwap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -173,10 +158,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559034719070" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -195,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SwapMeTest">
+  <component name="RunManager" selected="JUnit.SwapMeTest.swapNeighboursShouldWork">
     <configuration name="SwapMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SortAndSwap" />
       <extension name="coverage">
@@ -261,10 +249,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SwapMeTest" />
         <item itemvalue="JUnit.SwapMeTest.swapNeighboursShouldWork" />
         <item itemvalue="JUnit.SwapMeTest.swapFirstWithSecondShouldWork" />
         <item itemvalue="JUnit.SwapMeTest.swapFirstWithLastShouldWork" />
+        <item itemvalue="JUnit.SwapMeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -282,58 +270,65 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SwapMeTest - 2019.05.28 at 08h 30m 13s.xml">
-      <configuration name="SwapMeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapFirstWithLastShouldWork - 2019.05.28 at 08h 30m 51s.xml">
-      <configuration name="SwapMeTest.swapFirstWithLastShouldWork" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapFirstWithSecondShouldWork - 2019.05.28 at 08h 31m 59s.xml">
-      <configuration name="SwapMeTest.swapFirstWithSecondShouldWork" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapFirstWithSecondShouldWork - 2019.05.28 at 08h 32m 29s.xml">
-      <configuration name="SwapMeTest.swapFirstWithSecondShouldWork" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 35m 51s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 50m 09s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 37m 15s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 50m 24s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 38m 16s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 50m 58s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 40m 53s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 51m 31s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 08h 43m 01s.xml">
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 51m 56s.xml">
       <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SwapMeTest - 2019.05.28 at 08h 44m 13s.xml">
-      <configuration name="SwapMeTest" configurationId="JUnit" />
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 52m 35s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 52m 55s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 53m 17s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 53m 37s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SwapMeTest_swapNeighboursShouldWork - 2019.05.28 at 12h 53m 54s.xml">
+      <configuration name="SwapMeTest.swapNeighboursShouldWork" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="714" extended-state="0" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info id="DB Browser" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28252193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36173633" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35993487" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3534202" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329582" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="right" id="Codota" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -343,51 +338,84 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info id="DB Browser" order="0" />
+      <window_info id="Project Explorer" order="1" />
+      <window_info id="Job Explorer" order="2" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.28252193" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Favorites" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="0" />
+      <window_info anchor="bottom" id="DB Execution Console" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.35993487" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39871383" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3534202" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
+      <window_info anchor="right" id="Codota" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/projectcodex/sortandswap/SwapMeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="113">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/SwapMe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/projectcodex/sortandswap/StringNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="292">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
         </state>
       </provider>
     </entry>
