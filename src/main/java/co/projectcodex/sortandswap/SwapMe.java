@@ -1,5 +1,10 @@
 package co.projectcodex.sortandswap;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedHashMap;
+import java.util.List;
+
 public class SwapMe {
 
     public static String[] swapFirstWithLast(String[] values) {
@@ -24,29 +29,29 @@ public class SwapMe {
         return values;
     }
 
-    public static int[] swapNeighbours(int[] numbers) {
+    public static int[] swapNeighbours (int[] numbers) {
 
-        int one = numbers[0];
-        int two = numbers[1];
-        int three = numbers[2];
-        int four = numbers[3];
-        int five = numbers[4];
-        int six = numbers[5];
-        int seven = numbers[6];
 
-        numbers[0]= one;
-        numbers[1] =three;
-        numbers[2] = four;
-        numbers[3]=six;
-        numbers[4] = four;
-        numbers[5] = six;
-        numbers[6]=five;
+        for ( int i = 0; i < numbers.length; i++ ) {
 
+            if (i+1 < numbers.length) {
+                int currentValue = numbers[ i ];
+                int nextValue = numbers[ i + 1 ];
+
+                if ( nextValue < currentValue ) {
+
+                    numbers[ i + 1 ] = currentValue;
+                    numbers[i] = nextValue;
+                    System.out.println(currentValue);
+                    System.out.println(nextValue);
+
+                }
+            }
+
+        }
         return  numbers;
+
     }
-
-
-
 
 
 }
